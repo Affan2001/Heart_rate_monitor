@@ -4,4 +4,4 @@ This is the code for heart rate measuring from camera.
 # Steps
 pip install -r requirements.txt
 
-python3 Heart_rate.py
+python Heart_rate.py
